@@ -37,10 +37,7 @@ A deep dive into industry-standard workflows:
 
 ## 📂 Project Structure
 
-* `/bash-scripts`: Exercises and automation scripts.
-* `/git-practice`: Documentation on branching and conflict resolution.
-* `/web-dev`: (Future) Source code for web applications.
-
+* `/docs`: Learning material .
 ---
 
 ## ✍️ Author
