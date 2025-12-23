@@ -46,21 +46,21 @@ A deep dive into industry-standard workflows:
 ## Day1(22nd Dec 2025):
 ---
 **What is done today:**
-1. Environment Setup: Successfully configured Git Bash and linked it to GitHub repository (https://github.com/amitabhsingh64/BridgeLabz).
-2. Identity Correction: Performed an Interactive Rebase to manually review and fix author names across the entire commit history for a professional profile.
-3. Repository Synchronization: Resolved non-fast-forward errors and handled unrelated histories during a complex branch merge.
-4. CLI Proficiency: Learned terminal navigation (Vim, Pagers, mv commands) and understood the "Three-Stage" Git architecture (Working Directory vs. Staging vs. Repo).
-5. Documentation: Created a structured, professional README.md tailored for Apexon winter training.
-6. compared : Cherry-Pick vs rebase and merge
+1. Environment Setup: Successfully configured Git Bash and linked it to GitHub repository (https://github.com/amitabhsingh64/BridgeLabz).<br>
+2. Identity Correction: Performed an Interactive Rebase to manually review and fix author names across the entire commit history for a professional profile.<br>
+3. Repository Synchronization: Resolved non-fast-forward errors and handled unrelated histories during a complex branch merge.<br>
+4. CLI Proficiency: Learned terminal navigation (Vim, Pagers, mv commands) and understood the "Three-Stage" Git architecture (Working Directory vs. Staging vs. Repo).<br>
+5. Documentation: Created a structured, professional README.md tailored for Apexon winter training.<br>
+6. compared : Cherry-Pick vs rebase and merge<br>
 
 **What I will do next:**
 
 1. Bash Scripting Baics 
 
 **Issue faced:**
-1. Merge Conflicts: Resolved a (main|MERGING) block by aborting and correctly rebasing local changes.
-Identity Mismatch: Fixed the `<oldname>` vs. Amitabh Singh author name issue in the Git logs.
-2.Vim Swap Files: Successfully bypassed .swp file warnings to complete the merge process.
+1. Merge Conflicts: Resolved a (main|MERGING) block by aborting and correctly rebasing local changes.<br>
+2. Identity Mismatch: Fixed the `<oldname>` vs. Amitabh Singh author name issue in the Git logs.<br>
+3. Vim Swap Files: Successfully bypassed .swp file warnings to complete the merge process.<br>
 ## Day2(23rd Dec 2025):
 ---
 
