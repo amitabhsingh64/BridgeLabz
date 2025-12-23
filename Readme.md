@@ -40,6 +40,29 @@ A deep dive into industry-standard workflows:
 * `/docs`: Learning material .
 ---
 
+---
+## Day-wise Summary
+===
+**Day1(22nd Dec 2025)**:
+What is done today:
+Environment Setup: Successfully configured Git Bash and linked it to GitHub repository (https://github.com/amitabhsingh64/BridgeLabz).
+Identity Correction: Performed an Interactive Rebase to manually review and fix author names across the entire commit history for a professional profile.
+Repository Synchronization: Resolved non-fast-forward errors and handled unrelated histories during a complex branch merge.
+CLI Proficiency: Learned terminal navigation (Vim, Pagers, mv commands) and understood the "Three-Stage" Git architecture (Working Directory vs. Staging vs. Repo).
+Documentation: Created a structured, professional README.md tailored for Apexon winter training.
+compared : Cherry-Pick vs rebase and merge
+What I will do next:
+
+Bash Scripting Baics 
+
+Issue faced:
+Merge Conflicts: Resolved a (main|MERGING) block by aborting and correctly rebasing local changes.
+Identity Mismatch: Fixed the <oldname> vs. Amitabh Singh author name issue in the Git logs.
+Vim Swap Files: Successfully bypassed .swp file warnings to complete the merge process.
+===
+===
+Day2(23rd Dec 2025):
+
 ## ✍️ Author
 **Amitabh Singh**
 * 4th Year B.Tech CS (AI-ML)
