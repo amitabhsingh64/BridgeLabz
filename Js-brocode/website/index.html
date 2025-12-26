@@ -7,12 +7,17 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <label id="count_label">0</label><br>
-    <div id="btnContainer">
-        <button id="decrease" class="buttons">decrease</button>
-        <button id="reset" class="buttons">reset</button>
-        <button id="increase" class="buttons">increase</button>
-    </div>
+    <form>
+        <h1>Temperature converter</h1>
+        <input type="number" id="textbox" value="0"><br>
+        <input type="radio" id="toFahrenheit" name="unit">
+        <label for="toFahrenheit">celsius ➡️ Fahrenheit</label><br>
+
+        <input type="radio" id="toCelsius" name="unit">
+        <label for="toCelsius">Fahrenheit ➡️ celsius</label><br>
+        <button type="button" onclick="convert()">Submit</button>
+        <p id="result">Select a unit</p>
+    </form>
     <script src="index.js"></script>
 </body>
 </html>

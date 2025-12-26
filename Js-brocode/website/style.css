@@ -1,23 +1,51 @@
-#count_label{
-    display: block;
+body{
+    font-family: sans-serif;
+    background-color: hsl(0, 3%, 88%);
+}
+
+h1{
+    color:rgb(97, 103, 209)
+}
+
+form{
+    background-color: hsl(0, 0%, 100%);
     text-align: center;
-    font-size: 10em;
-    font-family:Helvetica;
-}
-#btnContainer{
-    text-align:center;
+    max-width: 300px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px hsl(0, 0%,0%,.3);
 }
 
-.buttons{
-    padding: 10px,20px;
+#textbox{
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border: 5px solid rgba(199, 196, 196, 0.457);
+    border-radius: 25px;
+    margin-bottom: 15px;
+}
+
+label{
     font-size: 1.5em;
-    color:white;
-    background-color: hsl(214, 100%, 74%);
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.25s;
+    font-weight: bold;
 }
 
-.buttons:hover{
-    background-color: hsl(214, 68%, 41%);
+button{
+    margin-top: 15%;
+    background-color: hsl(0,100%,65%);
+    font-size: 1.5em;
+    border: none;
+    border-radius: 25px;
+    padding: 10px, 15px;
+    color: white;
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsl(0,100%,50%);
+}
+
+#result{
+    font-size: 1.75em;
+    font-weight: bold;
 }
